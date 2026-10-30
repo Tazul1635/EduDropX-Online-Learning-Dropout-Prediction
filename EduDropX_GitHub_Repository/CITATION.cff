@@ -1,0 +1,6 @@
+cff-version: 1.2.0
+message: "Please cite the associated EduDropX manuscript when using this repository. Add the final author list, publication details, and DOI when available."
+title: "EduDropX: An AI-Driven Sentiment-Enhanced Multimodal Explainable Framework for Online Learning Dropout Prediction"
+type: software
+version: "1.0.0"
+date-released: "2026-10-30"

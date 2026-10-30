@@ -1,0 +1,9 @@
+{
+  "project": "EduDropX",
+  "notebook": "notebooks/EduDropX_Journal_Review_Notebook.ipynb",
+  "notebook_sha256": "46cf679e69050f426e7a7c6fa40363146a2d3e80f356d7d0f953752ff3d501d5",
+  "dataset_included": false,
+  "paper_pdf_included": false,
+  "model_parameters_changed": false,
+  "notebook_outputs_retained_as_reference_snapshot": true
+}
